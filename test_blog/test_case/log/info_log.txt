@@ -1,0 +1,4 @@
+2019-04-28 15:36:29,156 - __main__ - INFO - Information
+2019-04-28 15:36:29,156 - __main__ - WARNING - warning
+2019-04-28 15:36:29,156 - __main__ - INFO - Inside function age()
+2019-04-28 15:36:29,156 - __main__ - INFO - In the try Block
